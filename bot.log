@@ -1,0 +1,44 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @NotColneMrkt_bot id=9011619055 - 'NotMRKT'
+WARNING:root:не удалось отправить фото https://s3.coinmarketcap.com/static-gravity/image/0a9f73ee3234410c81ab56537263a3e8.png, шлю текстом
+INFO:aiogram.event:Update id=984048284 is handled. Duration 453 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048285 is handled. Duration 203 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048286 is handled. Duration 250 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048287 is handled. Duration 93 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048288 is handled. Duration 203 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048289 is handled. Duration 93 ms by bot id=9011619055
+INFO:root:8076647094 deal_create deal=1 pp 7.000000 USDT
+INFO:aiogram.event:Update id=984048290 is handled. Duration 296 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048291 is handled. Duration 172 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048292 is handled. Duration 93 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048293 is handled. Duration 108 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048294 is handled. Duration 186 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048295 is handled. Duration 202 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048296 is handled. Duration 250 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048297 is handled. Duration 125 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048298 is not handled. Duration 0 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048299 is handled. Duration 125 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048300 is handled. Duration 218 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048301 is handled. Duration 93 ms by bot id=9011619055
+WARNING:root:не удалось отправить фото https://s3.coinmarketcap.com/static-gravity/image/0a9f73ee3234410c81ab56537263a3e8.png, шлю текстом
+INFO:aiogram.event:Update id=984048302 is handled. Duration 187 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048303 is handled. Duration 93 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048304 is handled. Duration 187 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048305 is handled. Duration 155 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048306 is handled. Duration 187 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048307 is handled. Duration 172 ms by bot id=9011619055
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @NotColneMrkt_bot id=9011619055 - 'NotMRKT'
+INFO:aiogram.event:Update id=984048308 is handled. Duration 1422 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048309 is handled. Duration 203 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048310 is handled. Duration 141 ms by bot id=9011619055
+INFO:aiogram.dispatcher:Polling stopped
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 9011619055)
+INFO:aiogram.dispatcher:Polling stopped for bot @NotColneMrkt_bot id=9011619055 - 'NotMRKT'
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @NotColneMrkt_bot id=9011619055 - 'NotMRKT'
+INFO:aiogram.event:Update id=984048311 is handled. Duration 1422 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048312 is handled. Duration 109 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048313 is handled. Duration 217 ms by bot id=9011619055
+INFO:aiogram.event:Update id=984048314 is handled. Duration 203 ms by bot id=9011619055
